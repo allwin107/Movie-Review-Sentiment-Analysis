@@ -83,6 +83,6 @@ This project fulfills all ML internship assignment criteria:
 
 ## Contact
 
-Author: Allwin Raja
-Email: allwin10raja@gmail.com
-LinkedIn: https://www.linkedin.com/in/allwin-raja/
+- Author: Allwin Raja
+- Email: allwin10raja@gmail.com
+- LinkedIn: https://www.linkedin.com/in/allwin-raja/
